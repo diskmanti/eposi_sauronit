@@ -7,3 +7,4 @@ mund ta bej mark si deprected certification.
 2. Sauron eshte aware per cdo repo ne git.
 3. Sauron can make deprecate the word "deprecate" itself.
 4. Sauron creates simplicity out of thin air.
+5. Sauron gives Sys Admins admin rights.
