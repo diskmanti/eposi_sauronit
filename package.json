@@ -4,9 +4,9 @@
   "description": "Kjo repo permaban te gjitha urdhersat dhe bemat e Lord Sauron",
   "main": "index.js",
   "scripts": {
-    "build": "npx fiddly",
-    "lint:md" : "fiddly lint",
-    "deploy": "npx fiddly deploy"
+    "build": "fiddly",
+    "lint:md": "fiddly lint",
+    "deploy": "fiddly deploy"
   },
   "repository": {
     "type": "git",
