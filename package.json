@@ -1,0 +1,24 @@
+{
+  "name": "eposi_sauronit",
+  "version": "1.0.0",
+  "description": "Kjo repo permaban te gjitha urdhersat dhe bemat e Lord Sauron",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx fiddly",
+    "lint:md" : "fiddly lint",
+    "deploy": "npx fiddly deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diskmanti/eposi_sauronit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diskmanti/eposi_sauronit/issues"
+  },
+  "homepage": "https://github.com/diskmanti/eposi_sauronit#readme",
+  "devDependencies": {
+    "fiddly": "^0.8.0"
+  }
+}
