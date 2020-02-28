@@ -8,3 +8,4 @@ mund ta bej mark si deprected certification.
 5. Sauron i jep Sys Admin-ave admin rights.
 6. Qe i vogel Sauron kishte nofken GOAT(**G**reatest **O**f **A**ll **T**ime)
 7. Sauron ben commit vetem ne master branch, sepse kodi i tij eshte hyjnor.
+8. Sauron ka vetem nje dishepull, qe nuk e di qe e ka.
