@@ -4,5 +4,6 @@
   "logo": "./logo1.png",
   "description": "Kjo repo permban te gjitha urdhersat dhe bemat e Lord Sauron. Mund te cilesohet si permbledhja qe ne kemi bere per legjendat e legjendes",
   "darkTheme": true,
-  "homepage": "eposisauron.netlify.com"
+  "homepage": "eposisauron.netlify.com",
+  "style": "./style.css"
 }
