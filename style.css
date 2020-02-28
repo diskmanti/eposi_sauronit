@@ -1,5 +1,5 @@
 #fiddly {
-  .ol {
+  ol {
     list-style-type: upper-roman;
   }
 }
