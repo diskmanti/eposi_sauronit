@@ -10,3 +10,4 @@ mund ta bej mark si deprected certification.
 7. Sauron ben commit vetem ne master branch, sepse kodi i tij eshte hyjnor.
 8. Sauron ka vetem nje dishepull, qe nuk e di qe e ka.
 9. Sauron tha ping dhe pong u be.
+10. Sauron nuk krijon nje algoritem per machine learning. Algoritmet e machine learning mundohen te emulojne Sauron.
