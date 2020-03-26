@@ -12,3 +12,4 @@ mund ta bej mark si deprected certification.
 9. Sauron tha ping dhe pong u be.
 10. Sauron nuk krijon nje algoritem per machine learning. Algoritmet e machine learning mundohen te emulojne Sauron.
 11. Thanos can not snap the fingers because Sauron snapped them first. 
+12. Sauroni nuk pyet per avantazhe, por vetem per disavantazhet.
