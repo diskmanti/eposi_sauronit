@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/diskmanti/eposi_sauronit#readme",
   "devDependencies": {
-    "fiddly": "^0.8.0"
+    "fiddly": "^0.9.1"
   }
 }
