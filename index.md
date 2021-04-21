@@ -14,3 +14,4 @@ mund ta bej mark si deprected certification.
 11. Thanos can not snap the fingers because Sauron snapped them first. 
 12. Sauroni nuk pyet per avantazhe, por vetem per disavantazhet.
 13. Zoti para se te vendosi ku te bjeri shi, pyet Sauron: Ku do ikesh per plazh?
+14. Sauron nuk ka frike te te bej mute on teams for debugging resons
