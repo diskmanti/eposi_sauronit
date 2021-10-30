@@ -11,8 +11,8 @@ mund ta bej mark si deprected certification.
 8. Sauron ka vetem nje dishepull, qe nuk e di qe e ka.
 9. Sauron tha ping dhe pong u be.
 10. Sauron nuk krijon nje algoritem per machine learning. Algoritmet e machine learning mundohen te emulojne Sauron.
-11. Thanos can not snap the fingers because Sauron snapped them first. 
+11. Thanos can not snap the fingers because Sauron snapped them first.
 12. Sauroni nuk pyet per avantazhe, por vetem per disavantazhet.
 13. Zoti para se te vendosi ku te bjeri shi, pyet Sauron: Ku do ikesh per plazh?
 14. Sauron nuk ka frike te te bej mute on teams for debugging resons
-15. Sauron never trusts other people clusters or gitlab instances. And that is hte law
+15. Sauron never trusts other people clusters or gitlab instances. And that is the __law__
