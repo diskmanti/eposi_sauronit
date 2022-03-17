@@ -16,3 +16,4 @@ mund ta bej mark si deprected certification.
 13. Zoti para se te vendosi ku te bjeri shi, pyet Sauron: Ku do ikesh per plazh?
 14. Sauron nuk ka frike te te bej mute on teams for debugging resons
 15. Sauron never trusts other people clusters or gitlab instances. And that is the __law__
+16. Sauron është edhe zoti jot, pavarësisht se ti nuk e di që është
